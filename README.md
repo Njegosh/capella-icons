@@ -1,6 +1,4 @@
 ![GitHub Logo](/logo.svg)
-Format: ![Alt Text](url)
-
 
 # Capella Icon Theme [WIP]
 A clean modern icon set for Linux Systems
