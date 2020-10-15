@@ -1,7 +1,17 @@
-![GitHub Logo](/images/logo.png)
+![Capella Icons logo](/images/logo.png)
 
-# Capella Icon Theme [WIP]
+# Capella Icon Theme [WIP] #
 A clean modern icon set for Linux Systems
+
+## Icon identity ##
+### Apps ###
+Application icons can be categorised into 3 categories: **Pocket, Square, Circle**
+
+
+Pocket | Circle | Square
+------------ | ------------- | -------------
+![Files icon](/images/examples/files.png)  ![Zipper icon](/images/examples/zipper.png) | ![Weather icon](/images/examples/weather.png)  ![Clock icon](/images/examples/clock.png)| ![Terminal icon](/images/examples/terminal.png) ![Calculator icon](/images/examples/calc.png) 
+Mostly used | Used very often | Rarely used
 
 ### This project is a Work in Progress ###
 Capella Icons is currently a work in progress and lacks many icons for a full Desktop experiance.
