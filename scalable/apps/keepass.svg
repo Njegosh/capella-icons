@@ -1,7 +1,27 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <circle cx="8.467" cy="8.466" r="7.144" fill="#51a7e3" style="paint-order:stroke markers fill"/>
- <g transform="matrix(1.25 0 0 1.25 -2.1166 -2.1166)" stroke-width=".21166">
-  <path d="m5.2915 5.8207v0.72759l5.0942 5.0931h0.72656v-0.72759l-5.0931-5.0931z" fill="#4687b4"/>
-  <path d="m9.9218 5.2916c-0.94981 0-1.7197 0.76995-1.7198 1.7198-1.8e-5 0.28961 0.07298 0.57453 0.21238 0.82837l-3.1228 3.1403v0.66144h0.79374l0.26458-0.26458v-0.39687l0.13229-0.13229h0.39687l0.26458-0.26458h0.26458v-0.52916l0.26458-0.26458h0.52916v-0.39687l0.89348-0.87485c0.25312 0.13944 0.53731 0.21328 0.82628 0.21342 0.94978 4.501e-4 1.7198-0.76995 1.7198-1.7198 0-0.94981-0.76995-1.7198-1.7198-1.7198zm0.39687 0.79373c0.29225 0 0.52916 0.23691 0.52916 0.52916s-0.23691 0.52916-0.52916 0.52916-0.52916-0.23691-0.52916-0.52916 0.23691-0.52916 0.52916-0.52916z" fill="#f9f9f9"/>
- </g>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M32 60C47.464 60 60 47.4639 60 31.9999C60 16.536 47.464 4 32 4C16.536 4 4 16.536 4 31.9999C4 47.4639 16.536 60 32 60Z" fill="url(#paint0_linear)"/>
+<g filter="url(#filter0_d)">
+<path d="M21 26V21.8324C21.6488 19.2985 23.0785 17.0595 25.0674 15.4625C27.0563 13.8656 29.4931 13 32 13C34.5069 13 36.9437 13.8656 38.9326 15.4625C40.9215 17.0595 42.3512 19.2985 43 21.8324V26" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<line x1="19.5" y1="31.5" x2="44.5" y2="31.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<line x1="19.5" y1="36.5" x2="27.5" y2="36.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<line x1="36.5" y1="36.5" x2="44.5" y2="36.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<line x1="19.5" y1="41.5" x2="27.5" y2="41.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<line x1="36.5" y1="41.5" x2="44.5" y2="41.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<line x1="19.5" y1="46.5" x2="44.5" y2="46.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</g>
+<defs>
+<filter id="filter0_d" x="14" y="11.5" width="36" height="44.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0156863 0 0 0 0 0.164706 0 0 0 0 0.247059 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="31.5875" y1="4" x2="31.5875" y2="59.9997" gradientUnits="userSpaceOnUse">
+<stop stop-color="#40BAFF"/>
+<stop offset="1" stop-color="#0070B7"/>
+</linearGradient>
+</defs>
 </svg>
